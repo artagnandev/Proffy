@@ -5,4 +5,16 @@ Plataforma de estudos online.
 
 ## Sobre
 A aplicação foi desenvolvida utilizando algumas das tecnologias mais modernas de desenvolvimento.
-Para o front-end foi utilizado o framework **React JS** com **TypeScript** 
+<br />
+Para o front-end foi utilizado o framework **React JS** com **TypeScript**.
+<br />
+Para a criação, utilizei o conceito **"Mobile First"**, que consiste em primeiro desenvolver para dispositivos móveis. O que permite que em celulares e tablets a aplicação fique **totalmente responsiva** e não perca a qualidade.
+
+<img src="" /> <img src="" />
+
+## Experiencie você mesmo
+
+**Passos:**
+*Clone o repositório para sua máquina
+*Dentro do diretório, digite no terminal: ***npm start***
+*E... pronto!
