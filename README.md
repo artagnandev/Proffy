@@ -10,7 +10,7 @@ Para o front-end foi utilizado o framework **React JS** com **TypeScript**.
 <br />
 Para a criação, utilizei o conceito **"Mobile First"**, que consiste em primeiro desenvolver para dispositivos móveis. O que permite que em celulares e tablets a aplicação fique **totalmente responsiva** e não perca a qualidade.
 
-<img src="./proffy-mobile.png" /> <img src="./proffy-mobile-1.png" />
+<img src="./proffy-mobile.png" height="530px" width="auto" /> <img src="./proffy-mobile-1.png" height="530px" width="auto" />
 
 ## Experiencie você mesmo
 
